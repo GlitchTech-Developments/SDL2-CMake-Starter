@@ -12,10 +12,10 @@
 Well, first of all, you need some form of a development environment. I personally use [CLion](https://www.jetbrains.com/clion/), but you can use whatever you want. 
 So, since I use CLion, I will explain how to set it up in CLion.
 
-### Setting up CLion
+### Setting up SDL2
 
 First of all, you need to download the SDL2 development libraries. 
-You can do this by going to it's Github repo [here](https://)
+You can do this by going to it's Github repo [here](https://github.com/libsdl-org/SDL/releases/latest) and grab the devel minGW zip file, than dump the contents like the example version in the `./libs/SDL2` directory inside your project.
 
 ### Troubleshooting
 
