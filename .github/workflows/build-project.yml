@@ -23,9 +23,9 @@ jobs:
         run: mkdir build
 
       - name: Configure CMake
-        run: cmake -B build -S .
-        working-directory: build
+        run: cmake -B build -S ./build
+        working-directory: .
 
       - name: Build
-        run: cmake --build .
-        working-directory: build
+        run: cmake --build ./build
+        working-directory: .
