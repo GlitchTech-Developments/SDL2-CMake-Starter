@@ -8,13 +8,7 @@
   </a>
 </p>
 
-> A simple startingpoint for CMake, C++ and SDL2 combined together in a (fairly) neat way.
-
-## Build status
-
-| Branch   | Status |
-|----------|--------|
-| Main     | #      |
+> A simple startingpoint for CMake, C++ and SDL2 combined in a (fairly) neat way.
 
 ## How to start building?
 
@@ -24,11 +18,11 @@ So, since I use CLion, I will explain how to set it up in CLion.
 ### Setting up SDL2
 
 First of all, you need to download the SDL2 development libraries. 
-You can do this by going to it's Github repo [here](https://github.com/libsdl-org/SDL/releases/latest) and grab the devel minGW zip file, than dump the contents like the example version in the `./libs/SDL2` directory inside your project.
+You can do this by going to it's GitHub repo [here](https://github.com/libsdl-org/SDL/releases/latest) and grab the devel minGW zip file, than dump the contents like the example version in the `./libs/SDL2` directory inside your project.
 
 ### Troubleshooting
 
-If you run into any issues with regards to CMakes inability to find the SDL2 libraries, you probably need to add the `SLD2` directory to your `PATH` variable inside your OS (Operating System).
+If you run into any issues in regard to CMakes inability to find the SDL2 libraries, you probably need to add the `SLD2` directory to your `PATH` variable inside your OS (Operating System).
 You could also inject the path into the CMakeLists.txt file, but I personally prefer to keep it out of there.
 ## Author
 
@@ -36,7 +30,7 @@ You could also inject the path into the CMakeLists.txt file, but I personally pr
 
 * Website: https://glitchtech.eu
 * Twitter: [@GlitchTechEU](https://twitter.com/GlitchTechEU)
-* Github: [@GlitchTech-Developments](https://github.com/GlitchTech-Developments)
+* GitHub: [@GlitchTech-Developments](https://github.com/GlitchTech-Developments)
 
 ## 🤝 Contributing
 
