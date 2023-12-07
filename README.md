@@ -23,7 +23,7 @@ You can do this by going to it's GitHub repo [here](https://github.com/libsdl-or
 ### Troubleshooting
 
 If you run into any issues in regard to CMakes inability to find the SDL2 libraries, you probably need to add the `SLD2` directory to your `PATH` variable inside your OS (Operating System).
-You could also inject the path into the CMakeLists.txt file, but I personally prefer to keep it out of there.
+
 ## Author
 
 👤 **GlitchTech Developments**
