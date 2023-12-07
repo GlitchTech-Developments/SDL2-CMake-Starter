@@ -29,7 +29,8 @@ int main(int argc, char* args []) {
             }
         }
 
-        SDL_SetRenderDrawColor(renderer, 0, 0, 0, 0); // Set the background color to purple
+        // Cornflower blue background... because why not?
+        SDL_SetRenderDrawColor(renderer, 100, 149, 237, 1); // Set the background color to purple
         SDL_RenderClear(renderer);
         SDL_RenderPresent(renderer);
     }
