@@ -1,10 +1,9 @@
 <h1 align="center">Welcome to SDL2 CMake Starter 👋</h1>
 <p>
-  <a href="https://github.com/GlitchTech-Developments/SDL2-CMake-Starter/blob/master/LICENSE" target="_blank">
+  <a href="https://github.com/GlitchTech-Developments/SDL2-CMake-Starter/blob/master/LICENSE" target="_blank" style="text-decoration:none;">
     <img alt="License: MIT" src="https://img.shields.io/github/license/GlitchTech-Developments/SDL2-CMake-Starter" />
   </a>
-  <a href="https://twitter.com/GlitchTechEU" target="_blank">
-    <img alt="Twitter: GlitchTechEU" src="https://img.shields.io/twitter/follow/GlitchTechEU.svg?style=social" />
+  <a href="https://twitter.com/GlitchTechEU" target="_blank" style="text-decoration:none;"><img alt="Twitter: GlitchTechEU" src="https://img.shields.io/twitter/follow/GlitchTechEU.svg?style=social" />
   </a>
 </p>
 
