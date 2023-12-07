@@ -1,11 +1,20 @@
 <h1 align="center">Welcome to SDL2 CMake Starter 👋</h1>
 <p>
+  <a href="https://github.com/GlitchTech-Developments/SDL2-CMake-Starter/blob/master/LICENSE" target="_blank">
+    <img alt="License: MIT" src="https://img.shields.io/github/license/GlitchTech-Developments/SDL2-CMake-Starter" />
+  </a>
   <a href="https://twitter.com/GlitchTechEU" target="_blank">
     <img alt="Twitter: GlitchTechEU" src="https://img.shields.io/twitter/follow/GlitchTechEU.svg?style=social" />
   </a>
 </p>
 
 > A simple startingpoint for CMake, C++ and SDL2 combined together in a (fairly) neat way.
+
+## Build status
+
+| Branch   | Status |
+|----------|--------|
+| Main     | #      |
 
 ## How to start building?
 
